@@ -71,5 +71,5 @@ A more in-depth description of usage. Any template arguments? A complicated exam
 
 ## Notes about Setup (only part actually written by me for now)
 
-- `.typ` files contain mostly styling and formatting information
-- `.json5` files contain mostly the data to be used as input to
+<!-- - `.typ` files contain mostly styling and formatting information
+- `.json5` files contain mostly the data to be used as input to -->

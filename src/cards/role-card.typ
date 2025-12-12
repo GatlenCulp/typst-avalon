@@ -129,6 +129,19 @@
   ]
 }
 
+// Page setup for individual cards - page size matches card size
+#let card-page(
+  width: 2.5in,
+  height: 3.5in,
+  margin: 0pt,
+) = {
+  set page(
+    width: width,
+    height: height,
+    margin: margin,
+  )
+}
+
 // Helper function to create a sheet of multiple cards
 #let card-sheet(
   roles-list,
